@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on creating a portfolio for business intelligence
 - 🌱 As well as learning Python
 - 🤔 And I’m looking for help with data science in general
-- 📫 You can contact me on thyagolrodrigues@gmail.com
+- 📫 You can contact me clicking on the Gmail or LinkedIn icons in the bottom
 
   ##
   
