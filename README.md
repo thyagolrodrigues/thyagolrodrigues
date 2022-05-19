@@ -1,6 +1,6 @@
 ### Hi! I am Thyago Rodrigues 👋
 
-- 🔭 I’m currently working on creating a portfolio for business intelligence
+- 🔭 I’m currently working on data science project for my portfolio, which is https://thyagolrodrigues.github.io/
 - 🌱 As well as learning Python
 - 🤔 And looking for help with data science in general
 - 📫 You can contact me clicking on the Gmail or LinkedIn icons below
